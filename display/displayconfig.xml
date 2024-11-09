@@ -51,5 +51,17 @@
     </highBrightnessMode>
     <ambientLightHorizonLong>3000</ambientLightHorizonLong>
     <ambientLightHorizonShort>1000</ambientLightHorizonShort>
+    <densityMapping>
+        <density>
+            <height>1080</height>
+            <width>2400</width>
+            <density>420</density>
+        </density>
+        <density>
+            <height>1440</height>
+            <width>3200</width>
+            <density>560</density>
+        </density>
+    </densityMapping>
 </displayConfiguration>
 <!-- END Adapt_MIUIAdaptFrame -->
