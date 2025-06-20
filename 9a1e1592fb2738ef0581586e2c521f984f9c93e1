@@ -46,6 +46,30 @@
       },
       "revId": "9a1e1592fb2738ef0581586e2c521f984f9c93e1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e876947d_e5f5295a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-06-20T10:29:51Z",
+      "side": 1,
+      "message": "No actually, it is flipped. Verified by adding a visible triangle at the left side and observe it on the device.",
+      "parentUuid": "89acb735_ecd0b450",
+      "range": {
+        "startLine": 13,
+        "startChar": 17,
+        "endLine": 13,
+        "endChar": 21
+      },
+      "revId": "9a1e1592fb2738ef0581586e2c521f984f9c93e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
