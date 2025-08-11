@@ -16,6 +16,10 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/audio/resourcemanager_waipio_mtp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_taro/resourcemanager_waipio_mtp.xml \
     $(LOCAL_PATH)/audio/usecaseKvManager.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usecaseKvManager.xml
 
+# Display
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/display/displayconfig.xml:(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630947134992368257.xml
+
 # Overlay
 PRODUCT_PACKAGES += \
     ApertureResZeus \
